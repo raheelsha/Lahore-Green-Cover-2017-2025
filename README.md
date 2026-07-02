@@ -106,7 +106,7 @@ Mean NDVI declined from **0.393 (2017)** to **0.346 (2025)**, consistent with on
 
 ## 👤 Author
 
-**Aqeel Raheelshaukat**  
+**Raheel Shaukat**  
 GIS & Remote Sensing Researcher  
 GEE Cloud Project: `mediai-project`
 
